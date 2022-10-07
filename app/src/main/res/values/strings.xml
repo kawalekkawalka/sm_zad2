@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_adding">4 + 7 = 11</string>
+    <string name="q_subtraction">10 - 6 = 6</string>
+    <string name="q_multiplication">5 * 5 = 25</string>
+    <string name="q_dividing">8 / 2 = 3</string>
+    <string name="q_exponentiation">2 ^ 4 = 13</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+</resources>
