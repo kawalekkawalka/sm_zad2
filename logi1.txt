@@ -1,0 +1,30 @@
+Po pierwszym uruchomieniu aplikacji
+2022-10-14 17:10:23.141 11446-11446/com.example.quiz D/MyActivity: Metoda onCreate
+2022-10-14 17:10:24.394 11446-11446/com.example.quiz D/MyActivity: Metoda onResume
+Po wciśnięciu przycisku Cofnij
+2022-10-14 17:11:41.989 11446-11446/com.example.quiz D/MyActivity: Metoda onPause
+2022-10-14 17:11:43.781 11446-11446/com.example.quiz D/MyActivity: Metoda onStop
+Po ponownym uruchomieniu aplikacji
+2022-10-14 17:13:46.018 12158-12158/com.example.quiz D/MyActivity: Metoda onCreate
+2022-10-14 17:13:46.259 12158-12158/com.example.quiz D/MyActivity: Metoda onResume
+Po wciśnięciu przycisku ekranu głównego Home
+2022-10-14 17:13:12.321 11446-11446/com.example.quiz D/MyActivity: Metoda onPause
+2022-10-14 17:13:13.120 11446-11446/com.example.quiz D/MyActivity: Metoda onStop
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+2022-10-14 17:12:56.090 11446-11446/com.example.quiz D/MyActivity: Metoda onResume
+
+Logi po obróceniu ekranu:
+2022-10-14 17:16:36.045 12158-12158/com.example.quiz D/MyActivity: Metoda onPause
+2022-10-14 17:16:36.066 12158-12158/com.example.quiz D/MyActivity: Metoda onStop
+2022-10-14 17:16:36.073 12158-12158/com.example.quiz D/MyActivity: Metoda onDestroy
+2022-10-14 17:16:36.132 12158-12158/com.example.quiz D/MyActivity: Metoda onCreate
+2022-10-14 17:16:36.221 12158-12158/com.example.quiz D/MyActivity: Metoda onResume
+
+13. Zrestartuj aplikację i powtórz kroki z punktu 9 – które pytanie wyświetli się tym razem? Dodaj
+odpowiedź do pliku tekstowego z logami cyklu życia aplikacji.
+2022-10-14 17:28:07.692 1606-1606/? D/MyActivity: Metoda onPause
+2022-10-14 17:28:07.773 1606-1606/? D/MyActivity: Metoda onStop
+2022-10-14 17:28:07.774 1606-1606/? D/MyActivity: Wywołana została metoda: onSaveInstanceState
+2022-10-14 17:28:07.775 1606-1606/? D/MyActivity: Metoda onDestroy
+2022-10-14 17:28:08.145 1606-1606/? D/MyActivity: Metoda onCreate
+2022-10-14 17:28:08.596 1606-1606/? D/MyActivity: Metoda onResume

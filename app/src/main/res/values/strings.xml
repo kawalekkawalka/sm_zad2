@@ -3,6 +3,8 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_answer">Podpowiedź</string>
+    <string name="button_check_answer">Pokaż odpowiedź</string>
 
     <string name="q_adding">4 + 7 = 11</string>
     <string name="q_subtraction">10 - 6 = 6</string>
